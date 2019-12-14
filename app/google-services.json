@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160828610330",
+    "firebase_url": "https://fritzprojects-53a99.firebaseio.com",
+    "project_id": "fritzprojects-53a99",
+    "storage_bucket": "fritzprojects-53a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160828610330:android:318610af05877c4fdefea3",
+        "android_client_info": {
+          "package_name": "com.lavanya.visitorcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160828610330-2ln5vm4r7uqu9fpk8i2u28qime8ru9ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lavanya.visitorcard",
+            "certificate_hash": "9ae10b4ed0e78eaaf384dfeba745b2e6210d180b"
+          }
+        },
+        {
+          "client_id": "160828610330-81ovf0kv39meh7vqfho961muesfhrqaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMVrOpgOn0rbh9sjNUsZ3eU_Bt1msLXOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160828610330-81ovf0kv39meh7vqfho961muesfhrqaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
